@@ -1,3 +1,5 @@
 # aboutme
-This is all about me
-This is my webpage project
+
+
+This is all about me, and this is my webpage project
+
