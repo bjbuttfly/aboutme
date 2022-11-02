@@ -1,0 +1,42 @@
+body{
+	
+
+}
+.background{
+	padding: 100px;
+	text-align: right;
+	background-image: url("images/b.jpeg");
+	background-size: cover;
+	font-size: initial;
+	font-style: normal;
+}
+
+
+
+.column-left{
+	float:left;
+	width: 33.333%;
+	text-align: justify;
+	padding-right: 25px;
+}
+.column-center{
+	display: inline-block;
+	width: 29.333%;
+
+	
+
+}
+.column-right{
+	float: right;
+	width: 33.333%;
+	text-align: justify;
+	padding-left: 3px;
+}
+img{
+	display:block;
+	width: 70%;
+}
+
+	
+}
+
